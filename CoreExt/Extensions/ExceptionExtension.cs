@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CoreExt.Extensions
+namespace Ext.Extensions
 {
     public static class ExceptionExtension
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CoreExt.Helpers
+namespace Ext.Helpers
 {
     public static class MoneyHelper
     {

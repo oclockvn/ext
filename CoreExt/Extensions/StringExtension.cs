@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace CoreExt.Extensions
+namespace Ext.Extensions
 {
     public static class StringExtensions
     {

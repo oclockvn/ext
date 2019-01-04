@@ -3,7 +3,7 @@ using System.Text;
 // ReSharper disable InconsistentNaming
 // ReSharper disable AccessToStaticMemberViaDerivedType
 
-namespace CoreExt.Helpers
+namespace Ext.Helpers
 {
     public static class HashHelper
     {

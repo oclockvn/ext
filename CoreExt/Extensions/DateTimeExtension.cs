@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CoreExt.Extensions
+namespace Ext.Extensions
 {
     public static class DateTimeExtension
     {

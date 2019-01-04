@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace CoreExt.Helpers
+namespace Ext.Helpers
 {
     public static class EncryptHelper
     {
