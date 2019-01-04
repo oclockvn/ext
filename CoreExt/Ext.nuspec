@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CoreExt</id>
+    <version>1.0</version>
+    <title>.Net Core Extension Methods</title>
+    <authors>github.com/oclockvn</authors>
+    <owners>oclockvn</owners>
+    <projectUrl>https://github.com/oclockvn/ext</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net Core Extension Methods</description>
+    <releaseNotes>Port from https://github.com/oclockvn/toys to .net core.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>extension methods, cipher, hash</tags>
+  </metadata>
+</package>
